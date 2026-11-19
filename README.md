@@ -14,9 +14,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/v/release/YOUR-USERNAME/slotmi?style=for-the-badge&label=LATEST%20RELEASE&color=3F7FE0&labelColor=0F2744"/>
-<img src="https://img.shields.io/github/downloads/YOUR-USERNAME/slotmi/total?style=for-the-badge&label=DOWNLOADS&color=6AA9FF&labelColor=0F2744"/>
-<img src="https://img.shields.io/github/stars/YOUR-USERNAME/slotmi?style=for-the-badge&color=F0B36A&labelColor=0F2744"/>
+<img src="https://img.shields.io/github/v/release/SoftwaresHug/SlotsMi?style=for-the-badge&label=LATEST%20RELEASE&color=3F7FE0&labelColor=0F2744"/>
+<img src="https://img.shields.io/github/downloads/SoftwaresHug/SlotsMi/total?style=for-the-badge&label=DOWNLOADS&color=6AA9FF&labelColor=0F2744"/>
+<img src="https://img.shields.io/github/stars/SoftwaresHug/SlotsMi?style=for-the-badge&color=F0B36A&labelColor=0F2744"/>
 
 </div>
 
